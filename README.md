@@ -8,7 +8,7 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory](https://github.com/darrylbartlett/configure-ad)
 - <b>Network Security</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/darrylbartlett/network-protocols)
 
 <h2>Connect with me:</h2>
 
