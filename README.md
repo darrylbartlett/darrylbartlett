@@ -9,6 +9,8 @@
   - [Configuring On-premises Active Directory](https://github.com/darrylbartlett/configure-ad)
 - <b>Network Security</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/darrylbartlett/network-protocols)
+- <b>Epicor BAQ (Business Activity Query)</b>
+  - [Epicor BAQ: Environment Basics](https://github.com/darrylbartlett/epicor-baq)
 
 <h2>Connect with me:</h2>
 
