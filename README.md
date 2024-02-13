@@ -4,7 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation](https://github.com/darrylbartlett/osticket-install)
-  - [osTicket: Post-Installation Configuration](https://github.com/darrylbartlett/post-install)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory](https://github.com/darrylbartlett/configure-ad)
 - <b>Network Security</b>
