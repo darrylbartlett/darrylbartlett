@@ -7,7 +7,6 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory](https://github.com/darrylbartlett/configure-ad)
 - <b>Network Security</b>
-  - [Network Security Groups (NSGs)](https://github.com/darrylbartlett/network-security)
   - [Network File Shares and Permissions](https://github.com/darrylbartlett/network-shares)
 - <b>Epicor ERP BAQ (Business Activity Query)</b>
   - [Epicor ERP BAQ: Environment Basics](https://github.com/darrylbartlett/epicor-baq)
