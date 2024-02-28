@@ -8,8 +8,8 @@
   - [Configuring On-premises Active Directory](https://github.com/darrylbartlett/configure-ad)
 - <b>Network Security</b>
   - [Network File Shares and Permissions](https://github.com/darrylbartlett/network-shares)
-- <b>Epicor ERP BAQ (Business Activity Query)</b>
-  - [Epicor ERP BAQ Reporting Environment](https://github.com/darrylbartlett/epicor-baq)
+/* - <b>Epicor ERP BAQ (Business Activity Query)</b>
+  - [Epicor ERP BAQ Reporting Environment](https://github.com/darrylbartlett/epicor-baq) */
 
 <h2>Connect with me:</h2>
 
